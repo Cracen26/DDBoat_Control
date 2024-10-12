@@ -13,4 +13,4 @@ angular\_velocity = k\_angular*w
 right\_thurster - left\_thruster = A*w
 ```
 The following figure illustrates the boat's path, adjusted according to the minimization plan for heading difference and distance.
-![Boat path](URL_or_path_to_image "Optional title")
+![Boat path](pathimage.png)
